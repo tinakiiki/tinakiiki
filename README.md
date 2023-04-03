@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things data
 - 🌱 I’m currently practicing machine learning projects
 - 💞️ I’m looking to collaborate on all things data&python
-- 📫 How to reach me: email ktshivan@gmail.com
+- 📫 How to reach me:
 
 <!---
 tinakiiki/tinakiiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
